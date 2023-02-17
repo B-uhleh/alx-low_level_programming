@@ -1,12 +1,10 @@
-#include<stdio.h>
-#include<time.h>
-#include<stdlib.h>
-
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /**
- * main Prints the last digit of a randomly generated number
- * and whether it is greater than 5,less than 6, 0r 0.
- *
- * Return:Always 0.
+ * main - main block
+ * Description: Get a random number and check its last digit, compare it with 5
+ * Return: 0
  */
 int main(void)
 {
